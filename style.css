@@ -396,6 +396,7 @@ MODAL
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
 .modal__language:hover .language__name{
